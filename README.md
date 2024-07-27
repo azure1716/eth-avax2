@@ -1,4 +1,4 @@
-# eth-avax2
+# eth-avax3
 
 This Solidity program is a Module 3  Project program that demonstrates the basic syntax and functionality of the Solidity programming language.
 ## Description
